@@ -45,4 +45,4 @@ This project was developed using two dynamic arrays and implementing the Memento
 
 ## Software used
 
-- Clion;
+- Clion
